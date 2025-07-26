@@ -24,6 +24,9 @@ Myself Vinita Rajaram . A Passionate Full Stack Developer . I design and develop
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vinita-rajaram&theme=dark&hide_border=false)<br/>
 
+
+LANGUAGES : - 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita-rajaram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
