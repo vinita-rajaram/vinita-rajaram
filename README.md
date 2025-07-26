@@ -22,6 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vinita-rajaram&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita-rajaram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Github+Contributions" alt="Typing SVG" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vinita-rajaram&theme=radical&no-frame=true&no-bg=false&margin-w=4)
