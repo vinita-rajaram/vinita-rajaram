@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Vinita Rajaram . I am a Passionate Full Stack Developer . I design and develope websites using React , Node and Mysql .
+Myself Vinita Rajaram . A Passionate Full Stack Developer . I design and develope websites using React , Node and Mysql .
 
 
 
